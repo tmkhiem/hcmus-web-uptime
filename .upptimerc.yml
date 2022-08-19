@@ -19,6 +19,9 @@ sites:
     url: https://portal5.hcmus.edu.vn/
   - name: Portal 6
     url: https://portal6.hcmus.edu.vn/
+  - name: HR
+    url: https://hr.hcmus.edu.vn/
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
