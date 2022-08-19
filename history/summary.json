@@ -149,18 +149,16 @@
     "icon": "https://favicons.githubusercontent.com/hr.hcmus.edu.vn",
     "slug": "hr",
     "status": "up",
-    "uptime": "3.72%",
-    "uptimeDay": "3.72%",
-    "uptimeWeek": "3.72%",
-    "uptimeMonth": "3.72%",
-    "uptimeYear": "3.72%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3652,
     "timeDay": 3652,
     "timeWeek": 3652,
     "timeMonth": 3652,
     "timeYear": 3652,
-    "dailyMinutesDown": {
-      "2022-08-19": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
