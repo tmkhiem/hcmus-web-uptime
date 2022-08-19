@@ -1,26 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: tmkhiem # Your GitHub organization or username, where this repository lives
+repo: hcmums-portal-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Portal
+    url: https://portal.hcmus.edu.vn/
+  - name: Portal 1
+    url: https://portal1.hcmus.edu.vn/
+  - name: Portal 2
+    url: https://portal2.hcmus.edu.vn/
+  - name: Portal 3
+    url: https://portal3.hcmus.edu.vn/
+  - name: Portal 4
+    url: https://portal4.hcmus.edu.vn/
+  - name: Portal 5
+    url: https://portal5.hcmus.edu.vn/
+  - name: Portal 6
+    url: https://portal6.hcmus.edu.vn/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /hcmums-portal-uptime
+  logoUrl: http://www.chemistry.hcmus.edu.vn/images/logo%20KHTN_REMAKE%201.png
+  name: HCMUS Web uptime
+  introTitle: "HCMUS web status"
+  introMessage: HCMUS web status
   navbar:
     - title: Status
       href: /
