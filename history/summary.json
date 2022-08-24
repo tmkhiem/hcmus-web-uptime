@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/hcmus.edu.vn",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 5305,
     "timeDay": 7087,
     "timeWeek": 5305,
     "timeMonth": 5305,
     "timeYear": 5305,
     "dailyMinutesDown": {
-      "2022-08-24": 1
+      "2022-08-24": 5
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/portal.hcmus.edu.vn",
     "slug": "portal",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.65%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 11986,
     "timeDay": 16975,
     "timeWeek": 11986,
     "timeMonth": 11986,
     "timeYear": 11986,
     "dailyMinutesDown": {
-      "2022-08-24": 0,
+      "2022-08-24": 4,
       "2022-08-22": 22
     }
   },
@@ -46,17 +46,19 @@
     "icon": "https://favicons.githubusercontent.com/portal1.hcmus.edu.vn",
     "slug": "portal-1",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 4252,
     "timeDay": 4943,
     "timeWeek": 4252,
     "timeMonth": 4252,
     "timeYear": 4252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-24": 4
+    }
   },
   {
     "name": "Portal 2",
@@ -64,17 +66,19 @@
     "icon": "https://favicons.githubusercontent.com/portal2.hcmus.edu.vn",
     "slug": "portal-2",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 3198,
     "timeDay": 7063,
     "timeWeek": 3198,
     "timeMonth": 3198,
     "timeYear": 3198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-24": 3
+    }
   },
   {
     "name": "Portal 3",
@@ -82,17 +86,19 @@
     "icon": "https://favicons.githubusercontent.com/portal3.hcmus.edu.vn",
     "slug": "portal-3",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 3508,
     "timeDay": 5654,
     "timeWeek": 3508,
     "timeMonth": 3508,
     "timeYear": 3508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-24": 3
+    }
   },
   {
     "name": "Portal 4",
@@ -100,17 +106,19 @@
     "icon": "https://favicons.githubusercontent.com/portal4.hcmus.edu.vn",
     "slug": "portal-4",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 3512,
     "timeDay": 10162,
     "timeWeek": 3512,
     "timeMonth": 3512,
     "timeYear": 3512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-24": 2
+    }
   },
   {
     "name": "Portal 5",
@@ -118,17 +126,19 @@
     "icon": "https://favicons.githubusercontent.com/portal5.hcmus.edu.vn",
     "slug": "portal-5",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3365,
     "timeDay": 1205,
     "timeWeek": 3365,
     "timeMonth": 3365,
     "timeYear": 3365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-24": 2
+    }
   },
   {
     "name": "Portal 6",
@@ -136,17 +146,19 @@
     "icon": "https://favicons.githubusercontent.com/portal6.hcmus.edu.vn",
     "slug": "portal-6",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3123,
     "timeDay": 5116,
     "timeWeek": 3123,
     "timeMonth": 3123,
     "timeYear": 3123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-24": 1
+    }
   },
   {
     "name": "HR",
