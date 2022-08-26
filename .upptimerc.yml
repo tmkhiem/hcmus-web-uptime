@@ -28,7 +28,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /hcmums-web-uptime
+  baseUrl: /hcmus-web-uptime
   logoUrl: http://www.chemistry.hcmus.edu.vn/images/logo%20KHTN_REMAKE%201.png
   name: HCMUS Web uptime
   introTitle: "HCMUS web status"
