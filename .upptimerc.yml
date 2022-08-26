@@ -21,6 +21,8 @@ sites:
     url: https://portal6.hcmus.edu.vn/
   - name: HR
     url: https://hr.hcmus.edu.vn/
+  - name: Support
+    url: https://support.hcmus.edu.vn/
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
