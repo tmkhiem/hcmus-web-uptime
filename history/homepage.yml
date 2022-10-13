@@ -1,7 +1,7 @@
 url: https://hcmus.edu.vn/
-status: up
-code: 200
-responseTime: 6017
-lastUpdated: 2022-10-12T23:33:11.920Z
+status: down
+code: 500
+responseTime: 1734
+lastUpdated: 2022-10-13T07:45:19.906Z
 startTime: Fri Aug 19 2022 01:43:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
