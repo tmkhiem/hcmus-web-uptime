@@ -13,7 +13,7 @@
     "time": 5874,
     "timeDay": 6118,
     "timeWeek": 6280,
-    "timeMonth": 5611,
+    "timeMonth": 5606,
     "timeYear": 5874,
     "dailyMinutesDown": {
       "2023-02-16": 16,
@@ -45,18 +45,19 @@
     "url": "https://portal.hcmus.edu.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.hcmus.edu.vn.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.41%",
     "time": 14429,
     "timeDay": 16352,
     "timeWeek": 15540,
-    "timeMonth": 15982,
+    "timeMonth": 16035,
     "timeYear": 14429,
     "dailyMinutesDown": {
+      "2023-02-28": 1,
       "2023-02-16": 16,
       "2023-02-14": 20,
       "2023-02-09": 94,
@@ -101,7 +102,7 @@
     "time": 5024,
     "timeDay": 9756,
     "timeWeek": 6926,
-    "timeMonth": 5528,
+    "timeMonth": 5512,
     "timeYear": 5024,
     "dailyMinutesDown": {
       "2023-02-14": 20,
@@ -137,7 +138,7 @@
     "time": 4193,
     "timeDay": 430,
     "timeWeek": 2103,
-    "timeMonth": 3802,
+    "timeMonth": 3748,
     "timeYear": 4193,
     "dailyMinutesDown": {
       "2023-02-14": 19,
@@ -171,7 +172,7 @@
     "time": 4157,
     "timeDay": 5998,
     "timeWeek": 4848,
-    "timeMonth": 4766,
+    "timeMonth": 4847,
     "timeYear": 4157,
     "dailyMinutesDown": {
       "2023-02-14": 19,
@@ -204,7 +205,7 @@
     "time": 4116,
     "timeDay": 1586,
     "timeWeek": 4120,
-    "timeMonth": 3543,
+    "timeMonth": 3478,
     "timeYear": 4116,
     "dailyMinutesDown": {
       "2023-02-14": 18,
@@ -233,7 +234,7 @@
     "time": 4205,
     "timeDay": 5727,
     "timeWeek": 4693,
-    "timeMonth": 4703,
+    "timeMonth": 4665,
     "timeYear": 4205,
     "dailyMinutesDown": {
       "2023-02-20": 98,
@@ -263,7 +264,7 @@
     "time": 3815,
     "timeDay": 5872,
     "timeWeek": 4015,
-    "timeMonth": 3853,
+    "timeMonth": 3925,
     "timeYear": 3815,
     "dailyMinutesDown": {
       "2023-02-20": 98,
@@ -292,7 +293,7 @@
     "time": 3401,
     "timeDay": 5612,
     "timeWeek": 3360,
-    "timeMonth": 3430,
+    "timeMonth": 3508,
     "timeYear": 3401,
     "dailyMinutesDown": {}
   },
@@ -310,7 +311,7 @@
     "time": 3785,
     "timeDay": 1379,
     "timeWeek": 4038,
-    "timeMonth": 4156,
+    "timeMonth": 4145,
     "timeYear": 3785,
     "dailyMinutesDown": {
       "2023-02-20": 97,
@@ -333,7 +334,7 @@
     "time": 2986,
     "timeDay": 5062,
     "timeWeek": 4202,
-    "timeMonth": 2986,
+    "timeMonth": 3057,
     "timeYear": 2986,
     "dailyMinutesDown": {}
   }
