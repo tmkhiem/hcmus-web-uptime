@@ -4,9 +4,9 @@
     "url": "https://hcmus.edu.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/hcmus.edu.vn.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
@@ -16,6 +16,7 @@
     "timeMonth": 2483,
     "timeYear": 5054,
     "dailyMinutesDown": {
+      "2023-06-07": 0,
       "2023-04-23": 35,
       "2023-03-28": 15,
       "2023-03-27": 17,
@@ -57,7 +58,7 @@
     "uptimeYear": "99.59%",
     "time": 12244,
     "timeDay": 4521,
-    "timeWeek": 4621,
+    "timeWeek": 4756,
     "timeMonth": 4851,
     "timeYear": 12244,
     "dailyMinutesDown": {
