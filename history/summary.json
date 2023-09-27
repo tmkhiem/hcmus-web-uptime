@@ -4,17 +4,17 @@
     "url": "https://hcmus.edu.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/hcmus.edu.vn.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.29%",
+    "status": "up",
+    "uptime": "99.30%",
     "uptimeDay": "97.28%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.30%",
-    "time": 4413,
-    "timeDay": 2044,
-    "timeWeek": 2207,
-    "timeMonth": 2699,
-    "timeYear": 4182,
+    "uptimeYear": "99.31%",
+    "time": 4396,
+    "timeDay": 2254,
+    "timeWeek": 2171,
+    "timeMonth": 2673,
+    "timeYear": 4161,
     "dailyMinutesDown": {
       "2023-09-26": 39,
       "2023-08-16": 17,
@@ -61,11 +61,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 10508,
-    "timeDay": 4216,
-    "timeWeek": 6057,
-    "timeMonth": 5819,
-    "timeYear": 10142,
+    "time": 10499,
+    "timeDay": 5973,
+    "timeWeek": 6170,
+    "timeMonth": 5824,
+    "timeYear": 10105,
     "dailyMinutesDown": {
       "2023-08-16": 16,
       "2023-08-01": 24,
@@ -98,8 +98,7 @@
       "2022-10-04": 69,
       "2022-10-01": 146,
       "2022-09-30": 234,
-      "2022-09-29": 108,
-      "2022-09-27": 117
+      "2022-09-29": 108
     }
   },
   {
@@ -112,12 +111,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.85%",
-    "time": 3504,
-    "timeDay": 2008,
-    "timeWeek": 1339,
-    "timeMonth": 1791,
-    "timeYear": 3272,
+    "uptimeYear": "99.86%",
+    "time": 3498,
+    "timeDay": 483,
+    "timeWeek": 1211,
+    "timeMonth": 1751,
+    "timeYear": 3253,
     "dailyMinutesDown": {
       "2023-09-17": 26,
       "2023-08-16": 16,
@@ -137,8 +136,7 @@
       "2022-10-18": 30,
       "2022-10-05": 21,
       "2022-10-04": 26,
-      "2022-10-01": 146,
-      "2022-09-27": 117
+      "2022-10-01": 146
     }
   },
   {
@@ -152,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 3218,
-    "timeDay": 485,
-    "timeWeek": 1611,
-    "timeMonth": 1856,
-    "timeYear": 3081,
+    "time": 3215,
+    "timeDay": 1752,
+    "timeWeek": 1578,
+    "timeMonth": 1852,
+    "timeYear": 3068,
     "dailyMinutesDown": {
       "2023-08-16": 16,
       "2023-08-01": 23,
@@ -173,8 +171,7 @@
       "2022-10-18": 21,
       "2022-10-05": 21,
       "2022-10-04": 25,
-      "2022-10-01": 146,
-      "2022-09-27": 117
+      "2022-10-01": 146
     }
   },
   {
@@ -183,16 +180,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal3.hcmus.edu.vn.ico",
     "slug": "portal-3",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 3121,
-    "timeDay": 1987,
-    "timeWeek": 1408,
-    "timeMonth": 1571,
-    "timeYear": 3059,
+    "time": 3118,
+    "timeDay": 1743,
+    "timeWeek": 1547,
+    "timeMonth": 1576,
+    "timeYear": 3062,
     "dailyMinutesDown": {
       "2023-08-16": 15,
       "2023-08-01": 23,
@@ -209,8 +206,7 @@
       "2022-10-04": 25,
       "2022-10-01": 146,
       "2022-09-30": 234,
-      "2022-09-29": 143,
-      "2022-09-27": 117
+      "2022-09-29": 143
     }
   },
   {
@@ -224,11 +220,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 3131,
-    "timeDay": 1444,
-    "timeWeek": 1218,
-    "timeMonth": 1257,
-    "timeYear": 3091,
+    "time": 3129,
+    "timeDay": 2249,
+    "timeWeek": 1289,
+    "timeMonth": 1291,
+    "timeYear": 3073,
     "dailyMinutesDown": {
       "2023-08-01": 23,
       "2023-07-06": 18,
@@ -239,8 +235,7 @@
       "2022-12-21": 18,
       "2022-10-05": 20,
       "2022-10-04": 25,
-      "2022-10-01": 146,
-      "2022-09-27": 117
+      "2022-10-01": 146
     }
   },
   {
@@ -254,11 +249,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 3219,
-    "timeDay": 1475,
-    "timeWeek": 1567,
-    "timeMonth": 1876,
-    "timeYear": 3157,
+    "time": 3217,
+    "timeDay": 2240,
+    "timeWeek": 1612,
+    "timeMonth": 1889,
+    "timeYear": 3150,
     "dailyMinutesDown": {
       "2023-08-01": 23,
       "2023-07-06": 18,
@@ -270,8 +265,7 @@
       "2022-12-21": 17,
       "2022-10-05": 20,
       "2022-10-04": 24,
-      "2022-10-01": 146,
-      "2022-09-27": 117
+      "2022-10-01": 146
     }
   },
   {
@@ -284,12 +278,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 2958,
-    "timeDay": 1477,
-    "timeWeek": 1585,
-    "timeMonth": 1636,
-    "timeYear": 2800,
+    "uptimeYear": "99.91%",
+    "time": 2955,
+    "timeDay": 1745,
+    "timeWeek": 1623,
+    "timeMonth": 1640,
+    "timeYear": 2793,
     "dailyMinutesDown": {
       "2023-08-01": 23,
       "2023-07-06": 17,
@@ -298,8 +292,7 @@
       "2023-01-23": 16,
       "2022-12-21": 17,
       "2022-10-04": 48,
-      "2022-10-01": 146,
-      "2022-09-27": 117
+      "2022-10-01": 146
     }
   },
   {
@@ -314,10 +307,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2509,
-    "timeDay": 1155,
-    "timeWeek": 1042,
-    "timeMonth": 1082,
-    "timeYear": 2419,
+    "timeDay": 2209,
+    "timeWeek": 1189,
+    "timeMonth": 1133,
+    "timeYear": 2422,
     "dailyMinutesDown": {}
   },
   {
@@ -331,11 +324,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2779,
-    "timeDay": 1341,
-    "timeWeek": 1322,
-    "timeMonth": 1437,
-    "timeYear": 2681,
+    "time": 2777,
+    "timeDay": 1792,
+    "timeWeek": 1353,
+    "timeMonth": 1450,
+    "timeYear": 2650,
     "dailyMinutesDown": {
       "2023-07-06": 17,
       "2023-02-20": 97,
@@ -354,11 +347,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1493,
-    "timeDay": 944,
-    "timeWeek": 837,
-    "timeMonth": 826,
-    "timeYear": 1493,
+    "time": 1491,
+    "timeDay": 915,
+    "timeWeek": 830,
+    "timeMonth": 830,
+    "timeYear": 1491,
     "dailyMinutesDown": {}
   }
 ]
