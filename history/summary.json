@@ -275,9 +275,9 @@
     "url": "https://support.hcmus.edu.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/support.hcmus.edu.vn.ico",
     "slug": "support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -287,6 +287,7 @@
     "timeMonth": 2499,
     "timeYear": 2354,
     "dailyMinutesDown": {
+      "2023-11-28": 0,
       "2023-07-06": 17,
       "2023-02-20": 97,
       "2023-01-23": 16
