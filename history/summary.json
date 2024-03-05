@@ -14,7 +14,7 @@
     "timeDay": 2474,
     "timeWeek": 2985,
     "timeMonth": 3477,
-    "timeYear": 3026,
+    "timeYear": 3019,
     "dailyMinutesDown": {
       "2024-01-07": 295,
       "2023-10-27": 22,
@@ -54,7 +54,7 @@
     "timeDay": 3955,
     "timeWeek": 4917,
     "timeMonth": 5526,
-    "timeYear": 6099,
+    "timeYear": 6084,
     "dailyMinutesDown": {
       "2024-01-07": 295,
       "2023-10-22": 16,
@@ -85,7 +85,7 @@
     "timeDay": 1675,
     "timeWeek": 1708,
     "timeMonth": 1669,
-    "timeYear": 1923,
+    "timeYear": 1924,
     "dailyMinutesDown": {
       "2024-01-07": 295,
       "2023-10-22": 16,
@@ -261,10 +261,10 @@
     "url": "https://student.hcmus.edu.vn/",
     "icon": "https://icons.duckduckgo.com/ip3/student.hcmus.edu.vn.ico",
     "slug": "student",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 1294,
@@ -273,6 +273,7 @@
     "timeMonth": 1102,
     "timeYear": 1124,
     "dailyMinutesDown": {
+      "2024-03-05": 1,
       "2023-12-24": 1096
     }
   },
@@ -293,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-05": 67,
+      "2024-03-05": 287,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
