@@ -1,7 +1,7 @@
 url: https://student.hcmus.edu.vn/
-status: up
-code: 200
-responseTime: 958
-lastUpdated: 2024-03-08T23:19:02.057Z
+status: down
+code: 502
+responseTime: 955
+lastUpdated: 2024-03-09T06:33:57.136Z
 startTime: 2023-01-28T03:45:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
