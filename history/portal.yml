@@ -1,7 +1,7 @@
 url: https://portal.hcmus.edu.vn/
-status: up
-code: 200
-responseTime: 8536
-lastUpdated: 2025-03-16T23:22:46.750Z
+status: down
+code: 500
+responseTime: 22266
+lastUpdated: 2025-03-17T02:26:26.858Z
 startTime: 2022-08-19T01:43:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
