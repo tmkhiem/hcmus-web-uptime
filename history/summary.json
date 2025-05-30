@@ -10,11 +10,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 3322,
-    "timeDay": 3308,
-    "timeWeek": 3494,
-    "timeMonth": 3270,
-    "timeYear": 3293,
+    "time": 3321,
+    "timeDay": 2990,
+    "timeWeek": 3371,
+    "timeMonth": 3250,
+    "timeYear": 3280,
     "dailyMinutesDown": {
       "2025-05-29": 18,
       "2025-04-15": 17,
@@ -26,8 +26,7 @@
       "2024-08-06": 18,
       "2024-06-03": 31,
       "2024-06-01": 24,
-      "2024-05-31": 28,
-      "2024-05-30": 94
+      "2024-05-31": 28
     }
   },
   {
@@ -36,16 +35,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.hcmus.edu.vn.ico",
     "slug": "portal",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.51%",
+    "uptimeYear": "97.53%",
     "time": 5675,
-    "timeDay": 4028,
-    "timeWeek": 6170,
-    "timeMonth": 5891,
-    "timeYear": 5847,
+    "timeDay": 4190,
+    "timeWeek": 6028,
+    "timeMonth": 5829,
+    "timeYear": 5851,
     "dailyMinutesDown": {
       "2025-04-22": 19,
       "2025-03-18": 374,
@@ -68,8 +67,7 @@
       "2025-01-03": 16,
       "2024-08-08": 18,
       "2024-07-12": 22,
-      "2024-06-03": 31,
-      "2024-05-30": 76
+      "2024-06-03": 31
     }
   },
   {
@@ -82,12 +80,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.48%",
-    "time": 2418,
-    "timeDay": 625,
-    "timeWeek": 3217,
-    "timeMonth": 2604,
-    "timeYear": 2704,
+    "uptimeYear": "96.49%",
+    "time": 2420,
+    "timeDay": 3899,
+    "timeWeek": 3169,
+    "timeMonth": 2687,
+    "timeYear": 2727,
     "dailyMinutesDown": {
       "2025-03-18": 496,
       "2025-03-17": 1440,
@@ -109,8 +107,7 @@
       "2024-08-08": 17,
       "2024-06-03": 31,
       "2024-06-01": 1407,
-      "2024-05-31": 1440,
-      "2024-05-30": 807
+      "2024-05-31": 1440
     }
   },
   {
@@ -123,12 +120,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.01%",
-    "time": 2166,
-    "timeDay": 2889,
-    "timeWeek": 2304,
-    "timeMonth": 2979,
-    "timeYear": 2325,
+    "uptimeYear": "97.02%",
+    "time": 2165,
+    "timeDay": 603,
+    "timeWeek": 2260,
+    "timeMonth": 2859,
+    "timeYear": 2328,
     "dailyMinutesDown": {
       "2025-03-18": 256,
       "2025-02-19": 18,
@@ -147,8 +144,7 @@
       "2024-08-08": 17,
       "2024-06-03": 31,
       "2024-06-01": 1407,
-      "2024-05-31": 1440,
-      "2024-05-30": 810
+      "2024-05-31": 1440
     }
   },
   {
@@ -162,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.00%",
-    "time": 2278,
-    "timeDay": 2386,
-    "timeWeek": 2990,
-    "timeMonth": 3114,
-    "timeYear": 2430,
+    "time": 2281,
+    "timeDay": 2364,
+    "timeWeek": 2737,
+    "timeMonth": 3043,
+    "timeYear": 2419,
     "dailyMinutesDown": {
       "2025-03-18": 256,
       "2025-02-19": 18,
@@ -187,8 +183,7 @@
       "2024-08-08": 16,
       "2024-06-03": 30,
       "2024-06-01": 1407,
-      "2024-05-31": 1440,
-      "2024-05-30": 792
+      "2024-05-31": 1440
     }
   },
   {
@@ -201,12 +196,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.67%",
-    "time": 2327,
-    "timeDay": 2059,
-    "timeWeek": 2756,
+    "uptimeYear": "97.68%",
+    "time": 2329,
+    "timeDay": 3587,
+    "timeWeek": 2889,
     "timeMonth": 3062,
-    "timeYear": 2501,
+    "timeYear": 2500,
     "dailyMinutesDown": {
       "2025-03-18": 255,
       "2025-03-06": 53,
@@ -227,8 +222,7 @@
       "2024-07-11": 17,
       "2024-07-03": 38,
       "2024-07-02": 17,
-      "2024-06-03": 30,
-      "2024-05-30": 161
+      "2024-06-03": 30
     }
   },
   {
@@ -237,18 +231,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal5.hcmus.edu.vn.ico",
     "slug": "portal-5",
     "status": "down",
-    "uptime": "90.73%",
+    "uptime": "90.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.62%",
-    "time": 2009,
+    "uptimeYear": "74.53%",
+    "time": 2011,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2140,
+    "timeYear": 2132,
     "dailyMinutesDown": {
-      "2025-05-29": 1037,
+      "2025-05-30": 112,
+      "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -347,8 +342,7 @@
       "2025-02-06": 659,
       "2025-01-06": 65,
       "2024-08-08": 16,
-      "2024-06-03": 30,
-      "2024-05-30": 159
+      "2024-06-03": 30
     }
   },
   {
@@ -357,18 +351,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal6.hcmus.edu.vn.ico",
     "slug": "portal-6",
     "status": "down",
-    "uptime": "90.74%",
+    "uptime": "90.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.63%",
-    "time": 2026,
+    "uptimeYear": "74.54%",
+    "time": 2028,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2127,
+    "timeYear": 2136,
     "dailyMinutesDown": {
-      "2025-05-29": 1037,
+      "2025-05-30": 112,
+      "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -471,8 +466,7 @@
       "2024-08-08": 15,
       "2024-07-12": 19,
       "2024-07-02": 17,
-      "2024-06-03": 29,
-      "2024-05-30": 51
+      "2024-06-03": 29
     }
   },
   {
@@ -481,18 +475,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hr.hcmus.edu.vn.ico",
     "slug": "hr",
     "status": "down",
-    "uptime": "61.61%",
+    "uptime": "61.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1224,
+    "time": 1216,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-29": 1037,
+      "2025-05-30": 112,
+      "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -855,8 +850,7 @@
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
-      "2024-05-31": 1440,
-      "2024-05-30": 1440
+      "2024-05-31": 1440
     }
   },
   {
@@ -870,10 +864,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 996,
-    "timeDay": 746,
-    "timeWeek": 958,
-    "timeMonth": 980,
+    "time": 995,
+    "timeDay": 714,
+    "timeWeek": 821,
+    "timeMonth": 965,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2025-04-06": 29,
@@ -895,9 +889,9 @@
     "uptimeMonth": "98.04%",
     "uptimeYear": "99.56%",
     "time": 1079,
-    "timeDay": 1171,
-    "timeWeek": 1392,
-    "timeMonth": 1325,
+    "timeDay": 977,
+    "timeWeek": 1380,
+    "timeMonth": 1323,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2025-05-26": 20,
@@ -932,7 +926,8 @@
     "timeMonth": 1707,
     "timeYear": 1815,
     "dailyMinutesDown": {
-      "2025-05-29": 1037,
+      "2025-05-30": 112,
+      "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -1252,8 +1247,7 @@
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
-      "2024-05-31": 1440,
-      "2024-05-30": 1440
+      "2024-05-31": 1440
     }
   }
 ]
